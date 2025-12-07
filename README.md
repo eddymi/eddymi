@@ -118,8 +118,7 @@ ASP.NET Web API, C#, SQL Server, Entity Framework, Swagger/OpenAPI, JWT, OAuth, 
 
 **Live Project:** [View Project](https://developer.api.ucla.edu/api-catalog)
 
-A custom-built tool designed to split large Swagger/OpenAPI files into smaller, modular components.  
-This significantly improves maintainability, readability, and collaboration across teams working on large-scale API platforms.
+A custom-built tool designed to split large Swagger/OpenAPI files into smaller, modular components, allowing teams to group relevant APIs on the same page while cleanly excluding the rest. This greatly improves documentation clarity, navigation, and maintainability across large API ecosystems.
 
 **Tech Stack:**  
 .Net WinForms C#  
@@ -138,7 +137,7 @@ A full SaaS ecosystem with a native mobile application, authentication system, s
 Designed and built end-to-end: architecture, backend, frontend, mobile, cloud deployment, CI/CD, and the full production release pipeline.
 
 **Tech Stack:**  
-React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, AI-Assisted Development Tools
+React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, Android Studio, AI-Assisted Development Tools
 
 ---
 
