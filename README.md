@@ -1,4 +1,4 @@
-### 📘 About Me
+# 📘 About Me
 
 An experienced Software Engineer with 20+ years building enterprise systems, SaaS platforms, and native mobile applications.
 I specialize in taking projects from idea → architecture → development → production release across backend, frontend, cloud, and mobile.
@@ -6,7 +6,7 @@ I specialize in taking projects from idea → architecture → development → p
 I enjoy designing clean systems, solving complex problems, and delivering applications that users trust and enjoy.
 Continuous learning and refining modern engineering practices is a core part of my workflow.
 
-🚀 What I Do
+# 🚀 What I Do
 
 - Build full end-to-end software solutions from scratch
 - Architect scalable backend systems and API-driven platforms
@@ -15,7 +15,7 @@ Continuous learning and refining modern engineering practices is a core part of 
 - Deliver complete SaaS platforms ready for production use
 - Analyze and choose the right technologies for long-term stability
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages & Frameworks
 
@@ -51,85 +51,11 @@ Continuous learning and refining modern engineering practices is a core part of 
 ![Cursor](https://img.shields.io/badge/Cursor-A020F0?style=for-the-badge&logo=github&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0099ff?style=for-the-badge&logo=github&logoColor=white)
 
-Tech Stack:
+# 📫 Connect With Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-</p>
+Whether you're curious about my experience, interested in working together, or just want to say hi, I’d be glad to hear from you.
 
-🛠️ Skills & Technologies
-Core Strengths
+📧 Email: edoncell12@gmail.com<br>
+🔗 LinkedIn: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />](linkedin.com/in/eddy-mishiyev-01bb844)<br>
 
-End-to-end system architecture
-
-Backend & API development
-
-Mobile development
-
-Cloud deployment & DevOps
-
-SaaS product engineering
-
-Languages & Frameworks
-
-C#, .NET Core
-
-JavaScript / TypeScript
-
-React Native, React
-
-Node.js
-
-Cloud & Infrastructure
-
-Azure
-
-Docker / Containers
-
-CI/CD Pipelines
-
-Secure cloud architecture
-
-Databases
-
-PostgreSQL
-
-SQL Server
-
-Data modeling & optimization
-
-Tools & Modern Development
-
-GitHub, GitHub Actions
-
-Visual Studio, VS Code
-
-Ngrok, Postman
-
-AI-assisted development (Cursor, Copilot, Windsurf)
-
-🔭 Current Focus
-
-Building polished mobile-first applications
-
-Integrating AI into real-world systems
-
-Clean, maintainable architecture
-
-Scalable SaaS system design
-
-Expanding cloud automation capabilities
-
-📫 Connect With Me
-
-📧 Email: your-email-here
-🔗 LinkedIn: your-linkedin-url
-🌐 Website/Portfolio: (optional)
+ 
