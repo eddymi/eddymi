@@ -126,8 +126,12 @@ A custom-built tool designed to split large Swagger/OpenAPI files into smaller, 
 ---
 
 ## 📌 Decodi – AI-Powered Mobile Astrology Platform  
-![Decodi](./images/1_intro_start.png)
-![Decodi](./images/5_decodi_home.png)
+<a href="./images/1_intro_start.png">
+  <img src="./images/1_intro_start.png" width="150">
+</a>
+<a href="./images/5_decodi_home.png">
+  <img src="./images/5_decodi_home.png" width="150">
+</a>
 
 **Live App:**  
 - Google Play: *coming soon*  
@@ -136,8 +140,16 @@ A custom-built tool designed to split large Swagger/OpenAPI files into smaller, 
 A full SaaS ecosystem with a native mobile application, authentication system, subscription management, custom identity microservice, and an astro business-layer microservice with rich AI integrations.
 Designed and built end-to-end: architecture, backend, frontend, mobile, cloud deployment, CI/CD, and the full production release pipeline.
 
+The platform also includes a custom-built application framework designed from scratch, featuring:
+- Authentication Flow with JWT (Access + Refresh Tokens)
+- Resource-based Permission Access System
+- Version Upgrade Check and Enforcement Layer
+- Comprehensive Logging and Diagnostics Integration
+- User Onboarding Flow
+- Paywall & Subscription Access Logic (RevenueCat Integration)
+
 **Tech Stack:**  
-React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, Android Studio, AI-Assisted Development Tools
+React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, Android Studio (Emulators, Logcat), AI-Assisted Development Tools
 
 ---
 
