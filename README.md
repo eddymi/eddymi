@@ -96,6 +96,53 @@ Continuous learning and refining modern engineering practices is a core part of 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
+
+# ⭐ Featured Work
+
+## 📌 SAIT API SOA Platform 
+
+**Live Project:** [View Project](https://developer.api.ucla.edu/api-catalog)
+
+A large-scale enterprise API platform built as part of the UCLA Student Affairs IT team, where I contributed as the technical lead.
+The platform consisted of 250+ secure REST APIs supporting mission-critical university applications.
+It included versioning support, authentication layers, caching strategies, performance optimization, developer tooling, and full API governance integration through Apigee.
+
+**Tech Stack:**  
+ASP.NET Web API, C#, SQL Server, Entity Framework, Swagger/OpenAPI, JWT, OAuth, Apigee, Caching, Distributed Systems, Azure Hybrid Cloud
+
+---
+
+## 📌 Swagger Split Tool  
+![Swagger Split Tool](./images/swaggerSplit.png)
+
+**Live Project:** [View Project](https://developer.api.ucla.edu/api-catalog)
+
+A custom-built tool designed to split large Swagger/OpenAPI files into smaller, modular components.  
+This significantly improves maintainability, readability, and collaboration across teams working on large-scale API platforms.
+
+**Tech Stack:**  
+.Net WinForms C#  
+
+---
+
+## 📌 Decodi – AI-Powered Mobile Astrology Platform  
+![Decodi](./images/1_intro_start.png)
+![Decodi](./images/5_decodi_home.png)
+
+**Live App:**  
+- Google Play: *coming soon*  
+- App Store: *coming soon*
+
+A full SaaS ecosystem with a native mobile application, authentication system, subscription management, custom identity microservice, and an astro business-layer microservice with rich AI integrations.
+Designed and built end-to-end: architecture, backend, frontend, mobile, cloud deployment, CI/CD, and the full production release pipeline.
+
+**Tech Stack:**  
+React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, AI-Assisted Development Tools
+
+---
+
+
 
 # 📫 Connect With Me
 
