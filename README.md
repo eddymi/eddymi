@@ -142,14 +142,14 @@ Designed and built end-to-end: architecture, backend, frontend, mobile, cloud de
 
 The platform also includes a custom-built application framework designed from scratch, featuring:
 - Authentication Flow with JWT (Access + Refresh Tokens)
-- Resource-based Permission Access System
+- Resource-based Authorization Access System
 - Version Upgrade Check and Enforcement Layer
 - Comprehensive Logging and Diagnostics Integration
 - User Onboarding Flow
 - Paywall & Subscription Access Logic (RevenueCat Integration)
 
 **Tech Stack:**  
-React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, Android Studio (Emulators, Logcat), AI-Assisted Development Tools
+React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, WebHooks, Azure, Docker, Ngrok, OpenAI Api, Ngrok, Resend Email, Android Studio (Emulators, Logcat), AI-Assisted Development Tools
 
 ---
 
