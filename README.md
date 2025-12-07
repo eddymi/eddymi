@@ -14,6 +14,8 @@ Continuous learning and refining modern engineering practices is a core part of 
 - Integrate authentication, cloud infrastructure, and CI/CD
 - Deliver complete SaaS platforms ready for production use
 - Analyze and choose the right technologies for long-term stability
+- Modernize and upgrade legacy systems with scalable, maintainable architectures
+- Improve business processes by integrating modern tools and cutting-edge technologies
 
 # 💻 Tech Stack
 
