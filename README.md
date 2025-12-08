@@ -107,6 +107,9 @@ Continuous learning and refining modern engineering practices is a core part of 
 ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=xunit&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Application Insights](https://img.shields.io/badge/Application_Insights-5C2D91?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Log4net](https://img.shields.io/badge/Apache_Log4net-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Logcat](https://img.shields.io/badge/Android_Logcat-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - Unit Testing (xUnit)  
 - API Integration Testing  
