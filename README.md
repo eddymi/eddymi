@@ -179,6 +179,9 @@ React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, Revenue
 Whether you're curious about my experience, interested in working together, or just want to say hi, I’d be glad to hear from you.
 
 📧 Email: edoncell12@gmail.com<br>
-🔗 LinkedIn: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />](linkedin.com/in/eddy-mishiyev-01bb844)<br>
+🔗 LinkedIn: 
+<a href="https://www.linkedin.com/in/eddy-mishiyev-01bb844">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /><br>
+</a>
 
  
