@@ -100,6 +100,22 @@ Continuous learning and refining modern engineering practices is a core part of 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+### 🧪 Testing & Integration
+
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=xunit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+- Unit Testing (xUnit)  
+- API Integration Testing  
+- End-to-End (E2E) Testing  
+- Test-Driven Development (TDD)  
+- Mocking & Dependency Injection for isolated testing  
+- Automated testing workflows in CI/CD pipelines  
+- Postman Collection Testing  
+- Debugging, diagnostics, and structured logging  
+
+---
 
 # ⭐ Featured Work
 
