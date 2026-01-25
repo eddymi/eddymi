@@ -159,8 +159,10 @@ A custom-built tool designed to split large Swagger/OpenAPI files into smaller, 
 </a>
 
 **Live App:**  
-- Google Play: *coming soon*  
+- <a href="https://play.google.com/store/apps/details?id=com.decodi.app&utm_source=na_Med">Google Play</a>
 - App Store: *coming soon*
+
+
 
 A full SaaS ecosystem with a native mobile application, authentication system, subscription management, custom identity microservice, and an astro business-layer microservice with rich AI integrations.
 Designed and built end-to-end: architecture, backend, frontend, mobile, cloud deployment, CI/CD, and the full production release pipeline.
