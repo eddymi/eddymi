@@ -148,40 +148,6 @@ A custom-built tool designed to split large Swagger/OpenAPI files into smaller, 
 **Tech Stack:**  
 .Net WinForms C#  
 
----
-
-## 📌 Decodi – AI-Powered Mobile Astrology Platform  
-<a href="./images/1_intro_start.png">
-  <img src="./images/1_intro_start.png" width="150">
-</a>
-<a href="./images/5_decodi_home.png">
-  <img src="./images/5_decodi_home.png" width="150">
-</a>
-
-**Live App:**  
-- <a href="https://play.google.com/store/apps/details?id=com.decodi.app&utm_source=na_Med">Google Play</a>
-- App Store: *coming soon*
-
-
-
-A full SaaS ecosystem with a native mobile application, authentication system, subscription management, custom identity microservice, and an astro business-layer microservice with rich AI integrations.
-Designed and built end-to-end: architecture, backend, frontend, mobile, cloud deployment, CI/CD, and the full production release pipeline.
-
-The platform also includes a custom-built application framework designed from scratch, featuring:
-- Authentication Flow with JWT (Access + Refresh Tokens)
-- Resource-based Authorization Access System
-- Version Upgrade Check and Enforcement Layer
-- Comprehensive Logging and Diagnostics Integration
-- User Onboarding Flow
-- Paywall & Subscription Access Logic (RevenueCat Integration)
-
-**Tech Stack:**  
-React Native (Expo), .NET Core Web API, PostgreSQL (Supabase), JWT Auth, RevenueCat, WebHooks, Azure, Docker, Ngrok, OpenAI Api, Resend Email, Android Studio (Emulators, Logcat, Compilation), AI-Assisted Development Tools
-
----
-
-
-
 # 📫 Connect With Me
 
 Whether you're curious about my experience, interested in working together, or just want to say hi, I’d be glad to hear from you.
