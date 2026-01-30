@@ -1,21 +1,19 @@
 # 📘 About Me
 
-An experienced Software Engineer with 20+ years building enterprise systems, SaaS platforms, and native mobile applications.
-I specialize in taking projects from idea → architecture → development → production release across backend, frontend, cloud, and mobile.
+Senior Software Engineer with 20+ years of experience building, maintaining, and improving production software systems across web, mobile, and cloud platforms. I focus on developing reliable, scalable applications and turning real-world requirements into clean, maintainable code.
 
-I enjoy designing clean systems, solving complex problems, and delivering applications that users trust and enjoy.
-Continuous learning and refining modern engineering practices is a core part of my workflow.
+I enjoy solving complex problems, improving existing systems, and delivering software that users can depend on. Continuous learning and refining modern development practices are a core part of my work.
 
 # 🚀 What I Do
 
-- Build full end-to-end software solutions from scratch
-- Architect scalable backend systems, microservices and API-driven platforms
-- Develop cross-platform mobile apps with modern UI/UX
-- Integrate authentication, cloud infrastructure, and CI/CD
-- Deliver complete SaaS platforms ready for production use
-- Analyze and choose the right technologies for long-term stability
-- Modernize and upgrade legacy systems with scalable, maintainable architectures
-- Improve business processes by integrating modern tools and cutting-edge technologies
+- Build and maintain end-to-end software solutions
+- Develop scalable backend services and RESTful APIs
+- Create cross-platform mobile applications with modern UI/UX
+- Integrate authentication, cloud infrastructure, and CI/CD pipelines
+- Deliver SaaS platforms ready for real-world production use
+- Improve and modernize legacy systems
+- Optimize performance, reliability, and maintainability
+- Enhance business processes through practical technology solutions
 
 # 💻 Tech Stack
 
